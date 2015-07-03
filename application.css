@@ -1,3 +1,12 @@
 h1 {
   color: Blue;
   }
+
+  .background {
+  	background-color: gray;
+  }
+
+ .mainImage {
+ 	height: 100%;
+ 	width:100%;
+ } 
